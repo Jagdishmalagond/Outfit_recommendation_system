@@ -41,7 +41,7 @@ Dependencies listed in requirements.txt and package.json
 2. Resnet -18 finetuned for clothing feature extrarction.
 3. Compatiblity Scoring mlp.
    
-Send a mail request to Vishwajeetrajpatil2002@gmail.com or JagdishMalagond@gmail.com
+Send a mail request to jagdishmalagond460@gmail.com
 
 ---
 ## Installation
@@ -49,7 +49,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/vishwapatill/WARDROBE-WIZARD
+git clone [https://github.com/Jagdishmalagond/Outfit_recommendation_system.git]
 cd WardrobeWizard
 Set up the Outfit_app (Express Server):
 
